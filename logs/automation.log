@@ -1,0 +1,7 @@
+18:16:27.526 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+18:16:27.795 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+18:16:28.026 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+18:16:29.354 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Registered link
+18:16:29.472 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest -Test Failed..
+18:16:29.472 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest -Test Failed..
+18:16:37.260 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest -Test Failed..
